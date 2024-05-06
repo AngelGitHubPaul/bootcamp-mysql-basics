@@ -1,0 +1,39 @@
+A.
+	I. Johnson White 
+		- Secrets of Silicon Valley
+	II. Dean Straight 
+		- Straight Talk About Computers
+	III. Marjorie Green
+		- The Busy Executive's Database Guide 
+		- You can Combat Computer Stress!
+	IV. Michael O'Leary
+		- Cooking with Computers
+		- The Gourmet Microwave
+	V. Ann Dull
+		- Secrets of Silicon Valley
+
+B.	
+	I. The Busy Executive's Database Guide
+		- Marjorie Green
+		- Abraham Bennet
+	II. Secrets of Silicon Valley
+		- Johnson White
+		- Ann Dull
+	III. The Gourmet Microwave
+		- Michael O'Leary
+		- Burt Gringlesby
+C. 
+	I. Algodata Infosystems 
+		- The Busy Executive's Database Guide 
+		- Cooking with Computers
+		- Straight Talk About Computers
+		- But Is It User Friendly?
+		- Secrets of Silicon Valley
+		- Net Etiquette
+	II. New Moon Books 
+		- You can Combat Computer Stress!
+		- Is Anger the Enemy?
+	III. Binnet & Herdley
+		- Silicon Valley Gastronomic Treats
+		- The Gourmet Microwave
+		- The Psychology of Computer Cooking
